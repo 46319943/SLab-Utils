@@ -5,7 +5,7 @@ with open("README.md", "r", encoding='UTF-8') as fh:
 
 setuptools.setup(
     name="slab-utils",  # Replace with your own username
-    version="0.0.2",
+    version="0.0.3",
     author="Piao Yang",
     author_email="495384481@qq.com",
     description="A package for slab",
@@ -20,6 +20,5 @@ setuptools.setup(
     ],
     python_requires='>=3.6',
 
-    install_requires=['pathlib', 'requests',
-                      'aiohttp', 'asyncio', 'pymongo', 'pandas', 'scrapy'],
+    install_requires=['pathlib'],
 )
