@@ -1,2 +1,2 @@
 # SLab utils package
-A python package for slab
+Some useful python code snippets.

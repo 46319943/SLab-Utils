@@ -11,7 +11,7 @@ setuptools.setup(
     description="A package for slab",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/46319943/slab",
+    url="https://github.com/46319943/SLab-Utils",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
